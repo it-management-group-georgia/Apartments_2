@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<panorama appversion="6.1.6" id="node1" apprev="17950">
-  <input levelingroll="0" overlap="1" flat="1" levelbiashidpi="1.000" leveltilesize="510" height="4961" levelingpitch="0" width="7016" cylinder="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
-    <level preload="0" height="4961" width="7016" predecode="0"/>
-    <level preload="0" height="2480" width="3508" predecode="0"/>
-    <level preload="0" height="1240" width="1754" predecode="0"/>
-    <level preload="0" height="620" width="877" predecode="0"/>
-    <level preload="1" height="310" width="438" predecode="1"/>
+<panorama id="node1" appversion="6.1.6" apprev="17950">
+  <input levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="7016" leveltilesize="510" levelbias="0.400" cylinder="1" flat="1" height="4961" levelbiashidpi="1.000" levelingroll="0">
+    <level width="7016" preload="0" height="4961" predecode="0"/>
+    <level width="3508" preload="0" height="2480" predecode="0"/>
+    <level width="1754" preload="0" height="1240" predecode="0"/>
+    <level width="877" preload="0" height="620" predecode="0"/>
+    <level width="438" preload="1" height="310" predecode="1"/>
     <preview color="0x808080"/>
   </input>
   <view fovmode="0" pannorth="0">
-    <start fov="70" projection="4" tilt="0" pan="0"/>
-    <flyin fov="170" projection="9" tilt="-90" pan="0"/>
-    <min fovpixel="2" tilt="-90" pan="0"/>
-    <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90" pan="360"/>
+    <start pan="0" projection="4" tilt="0" fov="70"/>
+    <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+    <min pan="0" tilt="-90" fovpixel="2"/>
+    <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
   </view>
-  <userdata copyright="" customnodeid="" comment="" author="" longitude="" description="" datetime="10.08.2021 16:44" nodeid="node1" title="" tags="Project 2 (Narujka)" source="" heading="0" info="" latitude=""/>
-  <hotspots height="20" width="180" wordwrap="1">
-    <label border="1" backgroundalpha="1" bordercolor="0x000000" height="20" textcolor="0x000000" width="180" wordwrap="1" enabled="1" backgroundcolor="0xffffff" background="1" borderradius="1" textalpha="1" borderalpha="1"/>
-    <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
-    <polyhotspot url="https://it-management-group-georgia.github.io/Apartments_2/Outside/index.html" id="Poly01" target="_blank" description="" title="Outside">
+  <userdata datetime="10.08.2021 16:44" author="" comment="" customnodeid="" copyright="" info="" heading="0" description="" latitude="" nodeid="node1" title="" source="" tags="Project 2 (Narujka)" longitude=""/>
+  <hotspots wordwrap="1" width="180" height="20">
+    <label background="1" backgroundalpha="1" border="1" wordwrap="1" borderalpha="1" bordercolor="0x000000" enabled="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" height="20" textalpha="1" borderradius="1"/>
+    <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+    <polyhotspot url="https://it-management-group-georgia.github.io/Apartments_2/Outside/index.html" id="Poly01" description="" title="Outside" target="_blank">
       <polystring>45.31/23.52|44.65/-8.7|70.44/-8.29|70.71/23.65</polystring>
     </polyhotspot>
-    <polyhotspot url="https://it-management-group-georgia.github.io/Apartments_2/Plan_1/index.html" id="Poly02" target="_blank" description="" title="Plan 1">
+    <polyhotspot url="https://it-management-group-georgia.github.io/Apartments_2/Plan_1/index.html" id="Poly02" description="" title="Plan 1" target="_blank">
       <polystring>61.11/-41.07|60.24/-41.24|59.37/-41.72|58.93/-42.11|58.43/-43|58.31/-43.94|58.35/-44.67|58.76/-45.73|59.3/-46.21|60.07/-46.69|61.01/-46.89|61.85/-46.86|62.51/-46.52|63.13/-46.11|63.59/-45.56|63.91/-45|64.07/-44.11|64.03/-43.24|63.74/-42.54|63.28/-41.94|62.6/-41.41|61.95/-41.14</polystring>
     </polyhotspot>
-    <polyhotspot url="https://it-management-group-georgia.github.io/Apartments_2/Plan_3/index.html" id="Poly03" target="_blank" description="" title="Plan 3">
+    <polyhotspot url="https://it-management-group-georgia.github.io/Apartments_2/Plan_3/index.html" id="Poly03" description="" title="Plan 3" target="_blank">
       <polystring>-63.5/-41.08|-64.57/-41.24|-65.44/-41.8|-66.02/-42.44|-66.41/-43.33|-66.45/-44.15|-66.29/-44.9|-65.94/-45.66|-65.23/-46.3|-64.41/-46.76|-63.42/-46.9|-62.42/-46.67|-61.5/-46.08|-60.86/-45.15|-60.65/-44.3|-60.71/-43.31|-61.08/-42.42|-61.81/-41.63|-62.71/-41.18</polystring>
     </polyhotspot>
-    <polyhotspot url="https://it-management-group-georgia.github.io/Apartments_1/Flat_41/index.html" id="Poly04" target="_blank" description="" title="Flat 41">
+    <polyhotspot url="https://it-management-group-georgia.github.io/Apartments_2/Flat_41/index.html" id="Poly04" description="" title="Flat 41" target="_blank">
       <polystring>21.68/6.75|20.66/6.61|19.67/6.19|18.89/5.55|18.29/4.68|17.95/3.61|17.93/2.47|18.14/1.66|18.47/1|19.07/0.24|20.04/-0.32|21.1/-0.61|21.68/-0.67|22.81/-0.44|23.89/0.13|24.49/0.71|24.99/1.48|25.24/2.22|25.3/3.17|25.26/3.67|24.93/4.62|24.47/5.45|23.91/5.97|23.27/6.34|22.63/6.63</polystring>
     </polyhotspot>
-    <polyhotspot url="https://it-management-group-georgia.github.io/Apartments_1/Flat_40/index.html" id="Poly05" target="_blank" description="" title="Flat 40">
+    <polyhotspot url="https://it-management-group-georgia.github.io/Apartments_2/Flat_40/index.html" id="Poly05" description="" title="Flat 40" target="_blank">
       <polystring>-8.23/6.74|-9.29/6.62|-10.19/6.17|-11.02/5.46|-11.66/4.54|-11.9/3.74|-11.96/2.96|-11.86/2.07|-11.49/1.21|-10.94/0.35|-10.23/-0.12|-9.35/-0.65|-8.1/-0.73|-6.94/-0.53|-5.88/0.15|-5.22/0.9|-4.77/1.68|-4.53/2.66|-4.55/3.48|-4.87/4.52|-5.28/5.23|-5.94/5.93|-6.63/6.4|-7.39/6.68</polystring>
     </polyhotspot>
   </hotspots>
   <media/>
-  <transition blendtime="1" type="crossdissolve" zoomfov="20" zoomin="0" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" zoomspeed="2" zoomout="0"/>
-  <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-  <control lockedwheel="0" simulatemass="1" sensitivity="8" rubberband="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="0" speedwheel="1" hideabout="0"/>
+  <transition zoomspeed="2" zoomin="0" zoomoutpause="1" zoomfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000" softedge="0" zoomout="0"/>
+  <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+  <control rubberband="0" contextprojections="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" simulatemass="1" hideabout="0" lockedwheel="0" sensitivity="8" invertcontrol="1" dblclickfullscreen="0" speedwheel="1" lockedkeyboardzoom="0" contextfullscreen="1"/>
 </panorama>

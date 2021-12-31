@@ -14923,7 +14923,8 @@ function pano2vrSkin(player,base) {
 			me._tt_ht_node.logicBlock_visible();
 			skin.hotspotProxyOver(me.hotspot.id, me.hotspot.url);
 		}
-		me._ht_node.onmouseout=function (e) {
+		me._ht_node.onmouseout=function (e
+			) {
 			player.setActiveHotspot(null);
 			me.elementMouseOver['ht_node']=false;
 			me._hotspot_preview.logicBlock_visible();

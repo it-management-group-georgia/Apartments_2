@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama appversion="6.1.6" apprev="17950" id="node1">
+  <input cylinder="1" flat="1" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingpitch="0" leveltilesize="510" levelingroll="0" height="4961" width="7016">
+    <level predecode="0" height="4961" preload="0" width="7016"/>
+    <level predecode="0" height="2480" preload="0" width="3508"/>
+    <level predecode="0" height="1240" preload="0" width="1754"/>
+    <level predecode="0" height="620" preload="0" width="877"/>
+    <level predecode="1" height="310" preload="1" width="438"/>
+    <preview color="0x808080"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start fov="70" projection="4" pan="0" tilt="0"/>
+    <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+    <min fovpixel="2" pan="0" tilt="-90"/>
+    <max fov="120" fovstereographic="270" pan="360" fovfisheye="360" tilt="90" scaletofit="1"/>
+  </view>
+  <userdata comment="" latitude="" heading="0" longitude="" info="" copyright="" title="" datetime="10.08.2021 16:44" customnodeid="" source="" author="" description="" tags="Project 2 (Narujka)" nodeid="node1"/>
+  <hotspots height="20" wordwrap="1" width="180">
+    <label backgroundalpha="1" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" height="20" wordwrap="1" borderalpha="1" enabled="1" textalpha="1" width="180" textcolor="0x000000" border="1" borderradius="1"/>
+    <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+    <polyhotspot url="https://it-management-group-georgia.github.io/Apartments_2/Flat_77/index.html" title="Flat 77" target="_blank" description="" id="Poly01">
+      <polystring>22.57/-25.36|21.21/-25.59|20.37/-26.02|19.56/-26.75|19.13/-27.54|18.75/-28.68|18.8/-29.61|19/-30.3|19.36/-31.01|19.99/-31.72|20.78/-32.32|21.81/-32.63|22.73/-32.65|23.56/-32.43|24.47/-32.2|25.18/-31.59|25.69/-30.83|26.04/-29.99|26.17/-29.16|26.1/-28.42|25.74/-27.33|25.11/-26.42|24.35/-25.81|23.64/-25.48</polystring>
+    </polyhotspot>
+    <polyhotspot url="https://it-management-group-georgia.github.io/Apartments_2/Flat_78/index.html" title="Flat 78" target="_blank" description="" id="Poly02">
+      <polystring>-49.38/-8.26|-50.47/-8.44|-51.42/-8.87|-52.22/-9.58|-52.83/-10.51|-53.08/-11.31|-53.13/-12.28|-52.98/-13.27|-52.45/-14.19|-51.67/-14.89|-50.91/-15.42|-50.37/-15.65|-49.9/-15.73|-49.15/-15.73|-48.07/-15.46|-46.98/-14.83|-46.2/-13.67|-45.75/-12.64|-45.82/-11.67|-46.09/-10.4|-46.72/-9.43|-47.61/-8.78|-48.53/-8.38</polystring>
+    </polyhotspot>
+    <polyhotspot url="https://it-management-group-georgia.github.io/Apartments_2/Plan_2/index.html" title="Plan_2" target="_blank" description="" id="Poly03">
+      <polystring>61.27/-42.16|60.43/-42.24|59.84/-42.49|59.16/-42.92|58.69/-43.6|58.28/-44.47|58.29/-45.37|58.49/-46.21|58.87/-46.83|59.54/-47.5|60.23/-47.86|60.63/-47.97|61.14/-48.02|62.12/-47.88|62.94/-47.41|63.41/-46.92|63.9/-46.24|64.06/-45.54|64.1/-44.72|63.83/-43.72|63.14/-42.98|62.39/-42.43|61.94/-42.25</polystring>
+    </polyhotspot>
+    <polyhotspot url="https://it-management-group-georgia.github.io/Apartments_2/Outside/index.html" title="Outside" target="_blank" description="" id="Poly04">
+      <polystring>43.77/-8.59|70.71/-8.52|70.39/23.54|43.77/23.22|44.02/-8.39</polystring>
+    </polyhotspot>
+  </hotspots>
+  <media/>
+  <transition zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomout="0" enabled="1" blendtime="1" zoomfov="20" type="crossdissolve"/>
+  <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+  <control contextfullscreen="1" hideabout="0" sensitivity="8" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextprojections="0" rubberband="0" speedwheel="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" invertwheel="0"/>
+</panorama>
